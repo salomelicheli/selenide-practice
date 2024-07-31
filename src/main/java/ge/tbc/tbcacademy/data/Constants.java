@@ -1,4 +1,4 @@
-package ge.tbc.itacademy.data;
+package ge.tbc.tbcacademy.data;
 
 public class Constants {
     public static final String TELERIK_LINK = "https://www.telerik.com/support/demos";
