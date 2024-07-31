@@ -1,4 +1,4 @@
-package ge.tbc.itacademy.util;
+package ge.tbc.tbcacademy.data.util;
 
 import com.codeborne.selenide.Configuration;
 import com.codeborne.selenide.Selenide;

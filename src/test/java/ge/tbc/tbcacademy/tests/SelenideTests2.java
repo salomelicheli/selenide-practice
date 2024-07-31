@@ -2,7 +2,6 @@ package ge.tbc.tbcacademy.tests;
 
 import com.codeborne.selenide.ElementsCollection;
 import com.codeborne.selenide.SelenideElement;
-import ge.tbc.itacademy.util.Config;
 import ge.tbc.tbcacademy.util.Config;
 import org.testng.annotations.Test;
 
@@ -12,7 +11,6 @@ import static com.codeborne.selenide.Condition.text;
 import static com.codeborne.selenide.Selectors.by;
 import static com.codeborne.selenide.Selectors.byTagName;
 import static com.codeborne.selenide.Selenide.*;
-import static ge.tbc.itacademy.data.Constants.*;
 import static ge.tbc.tbcacademy.data.Constants.*;
 
 public class SelenideTests2 extends Config {
